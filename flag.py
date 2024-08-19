@@ -1,6 +1,6 @@
 import turtle
 turtle.Screen().setup(700,500)
-turtle.Screen().bgpic("Code-A-Flag\indagate.gif")
+turtle.Screen().bgpic("indagate.gif")
 turtle.colormode(255)
 turtle.bgcolor(254, 245, 231)
 turtle.hideturtle()
